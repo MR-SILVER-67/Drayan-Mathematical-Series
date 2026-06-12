@@ -5,7 +5,7 @@ A curated collection of Olympiad solutions, original problems, editorials, hando
 ## About Me
 
 - RMO 2025 Awardee
-- INMO 2025 Top 500
+- INMO 2026 Top 500
 - AMC 12B 2025 International Rank 3
 - Fermat Contest International Rank 7
 - NMTC 2025 National Top 200
