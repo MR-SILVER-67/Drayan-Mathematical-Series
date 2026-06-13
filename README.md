@@ -5,9 +5,9 @@
 
 *Olympiad solutions · Original problems · Handouts · Expositions*
 
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-0-blue?style=flat-square)](.)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-blue?style=flat-square)](.)
 [![Original Problems](https://img.shields.io/badge/Original%20Problems-0-blueviolet?style=flat-square)](.)
-[![Handouts](https://img.shields.io/badge/Handouts-0-green?style=flat-square)](.)
+[![Handouts](https://img.shields.io/badge/Handouts-2-green?style=flat-square)](.)
 
 </div>
 
@@ -99,8 +99,8 @@ I work with coaching institutes, ed-tech platforms, competition organizers, and 
 - **Handout writing** — topic notes with theory + problems
 - **LaTeX typesetting** — clean formatting of your existing content
 
-📩 **Contact:** [your email here]  
-🔗 **AoPS / LinkedIn:** [your profile here]
+📩 **Contact:** [ aryangoutam27112010@gmail.com]  
+🔗 **AoPS / LinkedIn:** [https://www.linkedin.com/in/aryan-goutam-448106392 ]
 
 ---
 
