@@ -37,7 +37,7 @@ I'm available for **freelance work** — if you need original problem sets, full
 ## What I Offer
 
 ### ✍️ Solution Writing
-Rigorous, well-motivated writeups for Olympiad problems — AMC / AIME / IOQM / RMO / INMO level. Every solution explains the *key idea*, not just the mechanics.
+Rigorous, well-motivated writeups for Olympiad problems — AMC / AIME / IOQM / RMO / INMO / ISI / CMI level. Every solution explains the *key idea*, not just the mechanics.
 
 ### 🧩 Original Problem Creation
 I create original, well-calibrated competition problems across all topics. Problems come with full solutions and difficulty tags. Suitable for mock tests, problem sets, and editorial content.
@@ -94,7 +94,7 @@ Drayan-Mathematical-Series/
 
 I work with coaching institutes, ed-tech platforms, competition organizers, and individual tutors. Services include:
 
-- **Mock test creation** — full problem sets (RMO / INMO / IOQM style) with complete solutions
+- **Mock test creation** — full problem sets (RMO / INMO / IOQM / ISI / CMI style) with complete solutions
 - **Solution manuals** — batch writeups for existing problem sets
 - **Handout writing** — topic notes with theory + problems
 - **LaTeX typesetting** — clean formatting of your existing content
