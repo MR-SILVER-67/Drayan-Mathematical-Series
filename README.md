@@ -84,8 +84,8 @@ Drayan-Mathematical-Series/
 |---|---|
 | Problems Solved | 36 |
 | Solutions Written | 4 |
-| Original Problems Created | 1 |
-| Handouts | 3 |
+| Original Problems Created | 6 |
+| Handouts | 4 |
 | Editorials | 0 |
 
 ---
