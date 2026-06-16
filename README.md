@@ -5,8 +5,8 @@
 
 *Olympiad solutions · Original problems · Handouts · Expositions*
 
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-4-blue?style=flat-square)](.)
-[![Original Problems](https://img.shields.io/badge/Original%20Problems-26-blueviolet?style=flat-square)](.)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-14-blue?style=flat-square)](.)
+[![Original Problems](https://img.shields.io/badge/Original%20Problems-28-blueviolet?style=flat-square)](.)
 [![Handouts](https://img.shields.io/badge/Handouts-4-green?style=flat-square)](.)
 
 </div>
