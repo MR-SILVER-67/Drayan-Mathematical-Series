@@ -5,7 +5,7 @@
 
 *Olympiad solutions · Original problems · Handouts · Expositions*
 
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-21-blue?style=flat-square)](.)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-28-blue?style=flat-square)](.)
 [![Original Problems](https://img.shields.io/badge/Original%20Problems-28-blueviolet?style=flat-square)](.)
 [![Handouts](https://img.shields.io/badge/Handouts-4-green?style=flat-square)](.)
 
@@ -83,7 +83,7 @@ Drayan-Mathematical-Series/
 | Category | Count |
 |---|---|
 | Problems Solved | 36 |
-| Solutions Written | 14 |
+| Solutions Written | 28 |
 | Original Problems Created | 28 |
 | Handouts | 4 |
 | Editorials | 0 |
